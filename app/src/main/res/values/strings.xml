@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calculadorakt</string>
+    <string name="result">Resultado</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicacion</string>
+    <string name="division">Division</string>
+
+</resources>
